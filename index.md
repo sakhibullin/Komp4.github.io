@@ -749,13 +749,14 @@ font-size:1.5vw;
 ">Вы выбрали Доставку</p>
 <p style="
 position: absolute;
-top:5vh;
+top:7vh;
 left:2vw;
+color: #000;
 ">Город:</p>
 <select style="
 position: absolute;
 top:5vh;
-left:5vw;
+left:8vw;
 ">
 <option>Казань</option>
 <option>Москва</option>	
@@ -763,8 +764,9 @@ left:5vw;
 </select>
 <p style="
 position: absolute;
-top:9vh;
+top:12vh;
 left:2vw;
+color: #000;
 " 
 >Укажите улицу</p><input type="text" name="Улица"
 style="
