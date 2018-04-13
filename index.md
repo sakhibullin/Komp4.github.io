@@ -755,8 +755,8 @@ color: #000;
 ">Город:</p>
 <select style="
 position: absolute;
-top:5vh;
-left:8vw;
+top:7vh;
+left:6vw;
 ">
 <option>Казань</option>
 <option>Москва</option>	
@@ -771,10 +771,10 @@ color: #000;
 >Укажите улицу</p><input type="text" name="Улица"
 style="
 position: absolute;
-top:9vh; 
-left:11vw;
-width: 8vw;
-height:  1.5vh;
+top:12.2vh; 
+left:12vw;
+width: 11vw;
+height:3vh;
 " 
 >
 </div>
