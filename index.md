@@ -743,8 +743,9 @@ border-radius: 50%;
 <p style="
 color: #0366d6;
 position: absolute;
-top:1vh;
-left:15vw;
+top:2vh;
+left:12vw;
+font-size:1.5 
 ">Вы выбрали Доставку</p>
 </div>
 </body>
