@@ -32,6 +32,7 @@
        position: absolute;
         top: 2vw;
         left:78vw;
+	font-size:1.5vw;
          ">Корзина</a>
          <p style="color:#fff;
          position:absolute; 
