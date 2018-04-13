@@ -740,12 +740,12 @@ left:6.5vw;
 border-radius: 50%;
 " 
 ></a>
-<h2 style="
+<p style="
 color: #0366d6;
 position: absolute;
 top:1vh;
-left:20vw;
-">Вы выбрали Доставку</h2>
+left:15vw;
+">Вы выбрали Доставку</p>
 </div>
 </body>
 </html>
