@@ -739,27 +739,13 @@ top:1vh;
 left:6.5vw;
 border-radius: 50%;
 " 
-></a><p style="
+></a>
+<h2 style="
+color: #0366d6;
 position: absolute;
-top: 3vh;
-left: 7.5vw;
-font-size: 2vw;
-color: #000;
-" 	>Вы не Авиторизировались</p>
-<a href="https://sakhibullin.github.io/Komp3.github.io/"><p style="
-font-size: 2vw;
-position: absolute;
-top:13vh ;
-left:16vw ;
-text-decoration: none;
-" 	>Вход</p></a>
-<a href="https://sakhibullin.github.io/Komp2.github.io/#"><p style="
-font-size: 2vw;
-position: absolute;
-top:22vh ;
-left:13vw ;
-text-decoration: none;
-">Регистрация</p></a>
+top:1vh;
+left:20vw;
+">Вы выбрали Доставку</h2>
 </div>
 </body>
 </html>
