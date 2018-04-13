@@ -28,16 +28,11 @@
             left:1vw;
             top: 0.1vh;"
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
-        <a href="https://sakhibullin.github.io/Komp2.github.io/" style="color:#fff;
+        <a href="#" style="color:#fff;
        position: absolute;
         top: 2vw;
         left:78vw;
-         "> Регистрация</a>
-                  <a href="https://sakhibullin.github.io/Komp3.github.io/" style="color:#Fff;
-        position: absolute;
-        top: 2vw;
-        left:75vw;
-         "> Вход/</a>
+         ">Корзина</a>
          <p style="color:#fff;
          position:absolute; 
             left:87vw;
