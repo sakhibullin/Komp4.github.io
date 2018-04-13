@@ -745,8 +745,36 @@ color: #0366d6;
 position: absolute;
 top:2vh;
 left:12vw;
-font-size:1.5 
+font-size:1.5vw; 
 ">Вы выбрали Доставку</p>
+<p style="
+position: absolute;
+top:5vh;
+left:2vw;
+">Город:</p>
+<select style="
+position: absolute;
+top:5vh;
+left:5vw;
+">
+<option>Казань</option>
+<option>Москва</option>	
+<option>Воронеж</option>
+</select>
+<p style="
+position: absolute;
+top:9vh;
+left:2vw;
+" 
+>Укажите улицу</p><input type="text" name="Улица"
+style="
+position: absolute;
+top:9vh; 
+left:11vw;
+width: 8vw;
+height:  1.5vh;
+" 
+>
 </div>
 </body>
 </html>
