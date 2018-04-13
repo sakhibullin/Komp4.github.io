@@ -18,7 +18,7 @@
 <body style="font-family: cooper black">
 <div style="
     width: 100vw;
-    height: 5vw;
+    height: 5.5vw;
     position: absolute;
     top: 0vh;
     left: 0vw;
