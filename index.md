@@ -779,8 +779,8 @@ height:3vh;
 >
 <p style="
 position: absolute;
-top: 9vh;
-left: 25.5vw;
+top: 8.5vh;
+left: 25vw;
 color: #000;
 ">Номер карты:</p><input type="text" name="Номер" style="
 position: absolute;
