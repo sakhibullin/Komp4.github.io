@@ -30,7 +30,7 @@
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
         <a href="#" style="color:#fff;
        position: absolute;
-        top: 2vw;
+        top: 1.7vw;
         left:78vw;
 	font-size:1.5vw;
          ">Корзина</a>
