@@ -817,7 +817,7 @@ left:2vw ;
 <select style="
 position: absolute;
 top:21vh ;
-left:7vw ;
+left:6vw ;
 ">
 		<option>2018</option>
 		<option>2017</option>
@@ -825,6 +825,18 @@ left:7vw ;
 		<option>2015</option>
 		<option>2014</option>
 </select>
+<p style="
+position: absolute;
+top:16vh ;
+left:22vw ;
+">Имя владельца:</p>
+<input type="text" name="name" style="
+position: absolute;
+top:21vh ;
+left:15vw ;
+width: 10vw;
+height:3vh ;
+">
 </div>
 </body>
 </html>
