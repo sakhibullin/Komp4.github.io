@@ -791,11 +791,15 @@ height: 3vh;
 ">
 <p style="
 position: absolute;
-top: 15vh;
+top: 16vh;
 left: 2vw;
 color:#000; 
 ">Срок действия:</p>
-<select>
+<select style="
+position: absolute;
+top:19vh ;
+left:2vw ;
+">
 	<option>1</option>
 		<option>2</option>
 		<option>3</option>
@@ -809,6 +813,17 @@ color:#000;
 		<option>11</option>
 		<option>12</option>
 
+</select>
+<select style="
+position: absolute;
+top:19vh ;
+left:5vw ;
+">
+		<option>2018</option>
+		<option>2017</option>
+		<option>2016</option>
+		<option>2015</option>
+		<option>2014</option>
 </select>
 </div>
 </body>
