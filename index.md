@@ -831,11 +831,24 @@ top:16vh ;
 left:15vw ;
 color: #000
 ">Имя владельца:</p>
-<input type="text" name="name" style="
+<input type="text" name="like" style="
 position: absolute;
 top:21vh ;
 left:15vw ;
 width: 10vw;
+height:3vh ;
+">
+<p style="
+position: absolute;
+top:26vh ;
+left:2vw ;
+color: #000;
+">CVV2</p>
+<input type="text" name="CVV2" style="
+position: absolute;
+top: 26vh;
+left: 7vw;
+width:5vw ;
 height:3vh ;
 ">
 </div>
