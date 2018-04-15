@@ -855,7 +855,7 @@ height:3vh ;
 style="
 position: absolute;
 top:29vh ;
-left:12vw ;
+left:14vw ;
 width:8vw ;
 height:8vh ;
 color: #000;
@@ -864,7 +864,11 @@ border-radius: 5%;
 border-color: #c5ced8; 
 
 " 
->Оплатить</a>
+><p style="
+position: absolute;
+top: 1vh;
+left: 2vw;
+"> Оплатить</p></a>
 </div>
 </body>
 </html>
