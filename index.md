@@ -847,10 +847,25 @@ color: #000;
 <input type="text" name="CVV2" style="
 position: absolute;
 top: 26.3vh;
-left: 7vw;
+left: 5vw;
 width:5vw ;
 height:3vh ;
 ">
+<a href="#" onclick="document.getElementById('d').style.display='none'"
+style="
+position: absolute;
+top:29vh ;
+left:10vw ;
+width:10vw ;
+height:10vh ;
+color: #000;
+border-style: solid;
+border-radius: 5%;
+box-shadow: 0vw 0vw 3vw 3vw;
+border-color: #c5ced8; 
+
+" 
+>Оплатить</a>
 </div>
 </body>
 </html>
