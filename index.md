@@ -855,13 +855,12 @@ height:3vh ;
 style="
 position: absolute;
 top:29vh ;
-left:10vw ;
-width:10vw ;
-height:10vh ;
+left:12vw ;
+width:8vw ;
+height:8vh ;
 color: #000;
 border-style: solid;
 border-radius: 5%;
-box-shadow: 0vw 0vw 3vw 3vw;
 border-color: #c5ced8; 
 
 " 
