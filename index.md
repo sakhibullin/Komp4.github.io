@@ -797,7 +797,7 @@ color:#000;
 ">Срок действия:</p>
 <select style="
 position: absolute;
-top:19vh ;
+top:21vh ;
 left:2vw ;
 ">
 	<option>1</option>
@@ -816,8 +816,8 @@ left:2vw ;
 </select>
 <select style="
 position: absolute;
-top:19vh ;
-left:5vw ;
+top:21vh ;
+left:7vw ;
 ">
 		<option>2018</option>
 		<option>2017</option>
