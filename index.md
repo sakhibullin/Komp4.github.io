@@ -843,10 +843,10 @@ position: absolute;
 top:26vh ;
 left:2vw ;
 color: #000;
-">CVV2</p>
+">CVV2:</p>
 <input type="text" name="CVV2" style="
 position: absolute;
-top: 26vh;
+top: 26.3vh;
 left: 7vw;
 width:5vw ;
 height:3vh ;
