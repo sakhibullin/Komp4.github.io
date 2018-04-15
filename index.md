@@ -866,8 +866,8 @@ border-color: #c5ced8;
 " 
 ><p style="
 position: absolute;
-top: 1vh;
-left: 2vw;
+top: 1.4vh;
+left: 1.5vw;
 "> Оплатить</p></a>
 </div>
 </body>
