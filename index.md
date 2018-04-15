@@ -828,7 +828,8 @@ left:6vw ;
 <p style="
 position: absolute;
 top:16vh ;
-left:22vw ;
+left:15vw ;
+color: #000
 ">Имя владельца:</p>
 <input type="text" name="name" style="
 position: absolute;
