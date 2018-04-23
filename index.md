@@ -172,7 +172,7 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.4vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
