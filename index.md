@@ -52,7 +52,7 @@ top:2vh ;
 left: 67vw;
 width:6vw; 
 height:6.7vh;
-background-color:#fcf;
+background-color:#fff;
 text-decoration: none;
 "><img src="Lupa.png" 
 style="
@@ -175,7 +175,7 @@ position: absolute;
 top:-1vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -238,10 +238,10 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.4vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -304,10 +304,10 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.4vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 </div>
 </div>
@@ -378,10 +378,10 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.4vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -444,10 +444,10 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.4vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -510,10 +510,10 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.4vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 </div>
 </div>
@@ -584,10 +584,10 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.4vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -650,10 +650,10 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.4vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 <div style="
 position: absolute;
@@ -716,10 +716,10 @@ border-radius: 10%
 " 
 	><p onclick="document.getElementById('d').style.display='block';" style="
 position: absolute;
-top:-1vh ;
+top:0.4vh ;
 left:1vw ;
 font-size:1.5vw;
-	">Забрать в магазине</p></a>
+	">Изучить</p></a>
 </div>
 </div>
 </div>
