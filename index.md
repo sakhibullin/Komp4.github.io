@@ -851,7 +851,7 @@ left: 5vw;
 width:5vw ;
 height:3vh ;
 ">
-<a href="#" onclick="document.getElementById('d').style.display='none'"
+<a href="" onclick="document.getElementById('d').style.display='none'"
 style="
 position: absolute;
 top:29vh ;
