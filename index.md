@@ -1,11 +1,6 @@
 
 <html>
-<head>
-<style type="text/css">
-	#we:hover{
-background-color: #c4c4c4;
-	}
-</style>	
+<head>	
 	<title></title>
   <meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="style2.css">
