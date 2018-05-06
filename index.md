@@ -1,7 +1,11 @@
 
 <html>
 <head>
-	
+<style type="text/css">
+	#we:hover{
+background-color: #c4c4c4;
+	}
+</style>	
 	<title></title>
   <meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="style2.css">
@@ -111,7 +115,7 @@ position: absolute;
 top:9vh;
 left:55vw; 
 "> Компьютеры</h2><div>
-<div style="
+<div  id="we" style="
 position: absolute;
 top:20vh;
 left:25vw;
@@ -177,7 +181,7 @@ left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
 </div>
-<div style="
+<div id="we" style="
 position: absolute;
 top:20vh;
 left:50vw;
@@ -243,7 +247,7 @@ left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
 </div>
-<div style="
+<div  id="we" style="
 position: absolute;
 top:20vh;
 left:75vw;
@@ -317,7 +321,7 @@ font-size:1.5vw;
 position: absolute;
 top:9vh;
 left:55vw; ">Телефоны</h2><div>
-<div style="
+<div id="we" style="
 position: absolute;
 top:20vh;
 left:25vw;
@@ -383,7 +387,7 @@ left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
 </div>
-<div style="
+<div id="we" style="
 position: absolute;
 top:20vh;
 left:50vw;
@@ -449,7 +453,7 @@ left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
 </div>
-<div style="
+<div id="we" style="
 position: absolute;
 top:20vh;
 left:75vw;
@@ -523,7 +527,7 @@ position: absolute;
 top:9vh;
 left:55vw; 
 ">Аксессуары</h2><div>
-<div style="
+<div id="we" style="
 position: absolute;
 top:20vh;
 left:25vw;
@@ -589,7 +593,7 @@ left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
 </div>
-<div style="
+<div id="we" style="
 position: absolute;
 top:20vh;
 left:50vw;
@@ -655,7 +659,7 @@ left:1vw ;
 font-size:1.5vw;
 	">Изучить</p></a>
 </div>
-<div style="
+<div id="we" style="
 position: absolute;
 top:20vh;
 left:75vw;
