@@ -157,7 +157,7 @@ top:1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
-		<a href="#"
+		<a href="https://sakhibullin.github.io/1produkt/"
 style="
 position: absolute;
 top: 50vh;
@@ -169,7 +169,7 @@ text-decoration: none;
 color: #fff;
 border-radius: 10%
 " 
-	><p onclick="document.getElementById('d').style.display='block';" style="
+	><p style="
 position: absolute;
 top:0.4vh ;
 left:1vw ;
