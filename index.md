@@ -27,7 +27,7 @@
             left:1vw;
             top: 0.1vh;"
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
-        <a href="#" style="color:#fff;
+        <a href="https://alsou-kadyrova.github.io/Basket.html" style="color:#fff;
        position: absolute;
         top: 1.7vw;
         left:78vw;
