@@ -289,7 +289,7 @@ top:1vh ;
 left:1vw ;
 font-size:1.5vw;
 	">Доставить</p></a>
-		<a href=""
+		<a href="https://sakhibullin.github.io/1produkt/"
 style="
 position: absolute;
 top: 50vh;
